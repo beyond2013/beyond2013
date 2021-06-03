@@ -32,8 +32,17 @@
   + 2000 as assistant in a tree plantation project of National Highway Authority.
   + 2001 as instructor in Chiltan college of business and commerce  
   + 2002 to 2005 as accounts assistant for Quetta Electric Supply Company (QESCO)  
-	+ 2005 to 2006 as data entry operator for Balochistan Educational Management Information Systems (BEMIS)  
+  + 2005 to 2006 as data entry operator for Balochistan Educational Management Information Systems (BEMIS)  
   + 2006 as computer programmer for Balochistan Public Service Commission(BPSC)  
 
 - I usually have to configure open source software on my system, to keep such configurations accessible I have setup a [blog](https://beyond2013.github.io/cmdcfg)
 - I frequently stack overflow which is a great place to ask questions, here is a link to my [stackoverflow profile](https://stackoverflow.com/users/923194/imran-ali?tab=profile)
+
+# GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=beyond2013&show_icons=true&hide_border=true" alt="Imran's GitHub Stats">
+</div>
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=beyond2013.beyond2013" alt="visitors">
+</div>
