@@ -36,7 +36,7 @@
   + 2005 to 2006 as data entry operator for Balochistan Educational Management Information Systems (BEMIS)  
   + 2006 as computer programmer for Balochistan Public Service Commission(BPSC)  
 
-- I usually have to configure open source software on my system, to keep such configurations accessible I have setup a [blog](https://beyond2013.github.io/cmdcfg)
+- I usually have to configure open source software on my system, to keep such configurations accessible I have setup a [blog](https://beyond2013.github.io)
 - I frequently stack overflow which is a great place to ask questions, here is a link to my [stackoverflow profile](https://stackoverflow.com/users/923194/imran-ali?tab=profile)
 
 # GitHub Stats
