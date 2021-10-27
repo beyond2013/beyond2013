@@ -6,6 +6,7 @@
 - I like to teach following courses to undergraduate, graduate and masters programs:
 
 - [Fundamentals of programming](https://github.com/beyond2013/progintro)
+- [Object Oriented Programming](https://github.com/beyond2013/oop)
 - [Data Structures and Algorithms](https://github.com/beyond2013/dsa)
 - [Database Management Systems](https://github.com/beyond2013/dbs)
 - [Data Mining](https://github.com/beyond2013/datamining)
