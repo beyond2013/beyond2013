@@ -26,7 +26,8 @@
 - I love to learn about language (both computer and natural languages, and Urdu poetry is one of my interests.[Rekhta](https://rekhta.org/) is a wonderful place for Urdu poetry and literature.
 - I like understanding mathematics and its applications to solve problems. I find [Brilliant](https://brilliant.org/) very interesting.
 - Trading and investing in Stocks is one of my recent interests.
-- Youtube vidoes have helped me learn a lot, I have collected such videos in a [public playlist](https://youtube.com/playlist?list=PLbfQBZgkspc_DuVZLTXMevddynmAQbJbf)
+- Youtube vidoes have helped me learn a lot, e.g. [Numberphile](https://www.youtube.com/c/numberphile), [3blue1brown](https://www.youtube.com/c/3blue1brown), [veritasium](https://www.youtube.com/c/veritasium), [MIT ocw](https://www.youtube.com/@mitocw)
+- I have collected such videos in a [public playlist](https://youtube.com/playlist?list=PLbfQBZgkspc_DuVZLTXMevddynmAQbJbf)
 
 # Past Experience
 
