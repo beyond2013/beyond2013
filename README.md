@@ -13,6 +13,7 @@
 - [Data Science Tools and Techniques](https://github.com/beyond2013/DataScience)
 - [Advanced Analysis of Algorithms](https://github.com/beyond2013/AlgoAnalysis)
 - [Probability and Statistics](https://github.com/beyond2013/ProbNStat)
+- [Applications of ICT](https://github.com/beyond2013/AICT)
 
 
 # Research 
