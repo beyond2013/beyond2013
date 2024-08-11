@@ -5,8 +5,8 @@
 - My name is **Imran Ali** and I am serving as **lecturer** in **Computer Science and Information Technology department** of **[University of Balochistan](http://web.uob.edu.pk/uob/index.php)** since 2007.
 - I like to teach following courses to undergraduate, graduate and masters programs:
 
-- [Fundamentals of programming](https://github.com/beyond2013/progintro)
-- [Object Oriented Programming](https://github.com/beyond2013/oop)
+- [Fundamentals of programming](https://beyond2013.github.io/ProgIntro)
+- [Object Oriented Programming](https://beyond2013.github.io/OOP)
 - [Data Structures and Algorithms](https://github.com/beyond2013/dsa)
 - [Database Management Systems](https://github.com/beyond2013/dbs)
 - [Data Mining](https://github.com/beyond2013/datamining)
