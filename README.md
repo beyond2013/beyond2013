@@ -6,7 +6,7 @@
 - I like to teach following courses to undergraduate, graduate and masters programs:
 
 - [Fundamentals of programming](https://beyond2013.github.io/ProgIntro)
-- [Discrete Structure](https://github.com/beyond2013/DiscreteStructure)
+- [Discrete Structure](https://github.com/beyond2013/DiscreteStructure)  
 - [Object Oriented Programming](https://beyond2013.github.io/OOP)
 - [Data Structures and Algorithms](https://github.com/beyond2013/dsa)
 - [Database Management Systems](https://github.com/beyond2013/dbs)
@@ -41,6 +41,13 @@
 
 - I usually have to configure open source software on my system, to keep such configurations accessible I have setup a [blog](https://beyond2013.github.io)
 - I frequently stack overflow which is a great place to ask questions, here is a link to my [stackoverflow profile](https://stackoverflow.com/users/923194/imran-ali?tab=profile)
+
+# Crypto Referal Links
+
+1. [Cointiply](http://cointiply.com/r/Pp2aL)
+2. [Freebitco.in](https://freebitco.in/?r=41726096)
+3. [Pi Network](https://minepi.com/sukhanwer)
+4. [Bitget](https://share.bitget.com/u/CXPVJJAD)
 
 # GitHub Stats
 <div align="center">
