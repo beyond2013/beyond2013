@@ -51,9 +51,7 @@
 3. [Bitget](https://share.bitget.com/u/CXPVJJAD)
 
 # GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beyond2013&show_icons=true&hide_border=true&cache_seconds=86400" />
-</p>
+![GitHub Stats](https://YOUR-VERCEL-APP.vercel.app/api?username=beyond2013&show_icons=true)
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=beyond2013.beyond2013" alt="visitors">
