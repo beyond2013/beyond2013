@@ -51,9 +51,9 @@
 3. [Bitget](https://share.bitget.com/u/CXPVJJAD)
 
 # GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=beyond2013&show_icons=true&hide_border=true" alt="Imran's GitHub Stats">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beyond2013&show_icons=true&hide_border=true" alt="Imran's GitHub Stats" />
+</p>
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=beyond2013.beyond2013" alt="visitors">
