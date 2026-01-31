@@ -52,7 +52,7 @@
 
 # GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beyond2013&show_icons=true&hide_border=true" alt="Imran's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beyond2013&show_icons=true&hide_border=true&cache_seconds=86400" />
 </p>
 
 <div align="center">
