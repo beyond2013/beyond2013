@@ -1,58 +1,95 @@
-# Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Imran Ali
 
-# About me
+Lecturer, Computer Science & Information Technology  
+University of Balochistan, Quetta, Pakistan
 
-- My name is **Imran Ali** and I am serving as **lecturer** in **Computer Science and Information Technology department** of **[University of Balochistan](http://web.uob.edu.pk/uob/index.php)** since 2007.
-- I like to teach following courses to undergraduate, graduate and masters programs:
+---
 
-- [Fundamentals of programming](https://beyond2013.github.io/ProgIntro)
-- [Discrete Structure](https://github.com/beyond2013/DiscreteStructure)  
-- [Object Oriented Programming](https://beyond2013.github.io/OOP)
+## About Me
+
+I am **Imran Ali**, serving as a **Lecturer** in the **Department of Computer Science and Information Technology** at the  
+**[University of Balochistan](http://web.uob.edu.pk/uob/index.php)** since **2007**.
+
+My academic interests lie at the intersection of **computing, mathematics, and data analysis**, with a strong emphasis on teaching foundational and advanced computer science courses at undergraduate and graduate levels.
+
+---
+
+## Teaching
+
+I have taught the following courses across undergraduate, graduate, and master’s programs:
+
+- [Fundamentals of Programming](https://beyond2013.github.io/ProgIntro)
+- [Discrete Structures](https://github.com/beyond2013/DiscreteStructure)
+- [Object-Oriented Programming](https://beyond2013.github.io/OOP)
 - [Data Structures and Algorithms](https://github.com/beyond2013/dsa)
 - [Database Management Systems](https://github.com/beyond2013/dbs)
+- [Database Administration & Management](https://github.com/beyond2013/dbanm)
 - [Data Mining](https://github.com/beyond2013/datamining)
-- [Data Science Tools and Techniques](https://github.com/beyond2013/DataScience)
+- [Data Science: Tools and Techniques](https://github.com/beyond2013/DataScience)
 - [Advanced Analysis of Algorithms](https://github.com/beyond2013/AlgoAnalysis)
 - [Probability and Statistics](https://github.com/beyond2013/ProbNStat)
-- [Database Administration & Management](https://github.com/beyond2013/dbanm)
 
+Course materials and supporting resources are maintained openly where possible.
 
+---
 
-# Research 
+## Research Interests
 
-- My research interest includes, text mining, natural language processing.
-- For list of publications I have been part of please visit my [google scholar profile](https://scholar.google.com/citations?user=uGTl_jIAAAAJ&hl=en)
+My research interests include:
 
-# Other Interests
+- Text Mining  
+- Natural Language Processing  
+- Data Analysis and Applied Statistics  
 
-- I love to learn about language (both computer and natural languages, and Urdu poetry is one of my interests.[Rekhta](https://rekhta.org/) is a wonderful place for Urdu poetry and literature.
-- I like understanding mathematics and its applications to solve problems. I find [Brilliant](https://brilliant.org/) very interesting.
-- Trading and investing in Stocks is one of my recent interests.
-- Youtube vidoes have helped me learn a lot, e.g. [Numberphile](https://www.youtube.com/c/numberphile), [3blue1brown](https://www.youtube.com/c/3blue1brown), [veritasium](https://www.youtube.com/c/veritasium), [MIT ocw](https://www.youtube.com/@mitocw)
-- I have collected videos of my interest in a [public playlist](https://youtube.com/playlist?list=PLbfQBZgkspc_DuVZLTXMevddynmAQbJbf)
+A complete list of my publications is available on my  
+📚 **[Google Scholar Profile](https://scholar.google.com/citations?user=uGTl_jIAAAAJ&hl=en)**
 
-# Past Experience
+---
 
-- Before joining University of Balochistan I have worked with several organization in various roles.
+## Professional Experience
 
-  + 2000 as assistant in a tree plantation project of National Highway Authority.
-  + 2001 as instructor in Chiltan college of business and commerce  
-  + 2002 to 2005 as accounts assistant for Quetta Electric Supply Company (QESCO)  
-  + 2005 to 2006 as data entry operator for Balochistan Educational Management Information Systems (BEMIS)  
-  + 2006 as computer programmer for Balochistan Public Service Commission(BPSC)  
+Prior to joining the University of Balochistan, I worked in various technical and administrative roles:
 
-- I usually have to configure open source software on my system, to keep such configurations accessible I have setup a [blog](https://beyond2013.github.io)
-- Although StackOverflow has been overshadowed by chatGPT here is a link to my [stackoverflow profile](https://stackoverflow.com/users/923194/imran-ali?tab=profile)
+- **2000** — Assistant, Tree Plantation Project (National Highway Authority)
+- **2001** — Instructor, Chiltan College of Business & Commerce
+- **2002–2005** — Accounts Assistant, Quetta Electric Supply Company (QESCO)
+- **2005–2006** — Data Entry Operator, Balochistan Educational Management Information Systems (BEMIS)
+- **2006** — Computer Programmer, Balochistan Public Service Commission (BPSC)
 
-# Crypto Referal Links
+---
 
-1. [Cointiply](http://cointiply.com/r/Pp2aL)
-2. [Pi Network](https://minepi.com/sukhanwer)
-3. [Bitget](https://share.bitget.com/u/CXPVJJAD)
+## Academic & Technical Interests
 
-# GitHub Stats
-![GitHub Stats](https://YOUR-VERCEL-APP.vercel.app/api?username=beyond2013&show_icons=true)
+Beyond formal teaching and research, my interests include:
+
+- Programming languages (both computer and natural languages)
+- Applied mathematics and its role in problem solving
+- Urdu literature and poetry  
+  - A valuable resource: [Rekhta](https://rekhta.org/)
+- Educational and scientific content platforms such as:
+  - [Brilliant](https://brilliant.org/)
+  - [Numberphile](https://www.youtube.com/c/numberphile)
+  - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+  - [Veritasium](https://www.youtube.com/c/veritasium)
+  - [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+
+I maintain a curated **[public YouTube playlist](https://youtube.com/playlist?list=PLbfQBZgkspc_DuVZLTXMevddynmAQbJbf)** for educational content of interest.
+
+---
+
+## Open Source & Online Presence
+
+- Personal blog (open-source configurations and notes):  
+  🌐 **https://beyond2013.github.io**
+- Stack Overflow profile:  
+  💬 **[Imran Ali on Stack Overflow](https://stackoverflow.com/users/923194/imran-ali)**
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats-beyond2013.vercel.app/api?username=beyond2013&show_icons=true&hide_border=true)
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=beyond2013.beyond2013" alt="visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=beyond2013.beyond2013" alt="Profile visitors" />
 </div>
