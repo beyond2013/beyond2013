@@ -29,7 +29,7 @@
 - I like understanding mathematics and its applications to solve problems. I find [Brilliant](https://brilliant.org/) very interesting.
 - Trading and investing in Stocks is one of my recent interests.
 - Youtube vidoes have helped me learn a lot, e.g. [Numberphile](https://www.youtube.com/c/numberphile), [3blue1brown](https://www.youtube.com/c/3blue1brown), [veritasium](https://www.youtube.com/c/veritasium), [MIT ocw](https://www.youtube.com/@mitocw)
-- I have collected such videos in a [public playlist](https://youtube.com/playlist?list=PLbfQBZgkspc_DuVZLTXMevddynmAQbJbf)
+- I have collected videos of my interest in a [public playlist](https://youtube.com/playlist?list=PLbfQBZgkspc_DuVZLTXMevddynmAQbJbf)
 
 # Past Experience
 
@@ -42,14 +42,13 @@
   + 2006 as computer programmer for Balochistan Public Service Commission(BPSC)  
 
 - I usually have to configure open source software on my system, to keep such configurations accessible I have setup a [blog](https://beyond2013.github.io)
-- I frequently stack overflow which is a great place to ask questions, here is a link to my [stackoverflow profile](https://stackoverflow.com/users/923194/imran-ali?tab=profile)
+- Although StackOverflow has been overshadowed by chatGPT here is a link to my [stackoverflow profile](https://stackoverflow.com/users/923194/imran-ali?tab=profile)
 
 # Crypto Referal Links
 
 1. [Cointiply](http://cointiply.com/r/Pp2aL)
-2. [Freebitco.in](https://freebitco.in/?r=41726096)
-3. [Pi Network](https://minepi.com/sukhanwer)
-4. [Bitget](https://share.bitget.com/u/CXPVJJAD)
+2. [Pi Network](https://minepi.com/sukhanwer)
+3. [Bitget](https://share.bitget.com/u/CXPVJJAD)
 
 # GitHub Stats
 <div align="center">
