@@ -86,9 +86,13 @@ I maintain a curated **[public YouTube playlist](https://youtube.com/playlist?li
 
 ---
 
+---
+
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beyond2013&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beyond2013&show_icons=true&hide_border=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyond2013&layout=compact&hide_border=true&theme=default)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=beyond2013.beyond2013" alt="Profile visitors" />
