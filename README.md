@@ -55,6 +55,8 @@ Prior to joining the University of Balochistan, I worked in various technical an
 - **2002–2005** — Accounts Assistant, Quetta Electric Supply Company (QESCO)
 - **2005–2006** — Data Entry Operator, Balochistan Educational Management Information Systems (BEMIS)
 - **2006** — Computer Programmer, Balochistan Public Service Commission (BPSC)
+- **Fall 2013** -- Teaching Assistant, Web Application Engineering at Asian Institute of Technology(AIT), Bangkok, Thailand
+- **2014–2018** -- Helpdesk Assistant at AIT: Turnitin reporting, ticketing system, video conferencing support
 
 ---
 
