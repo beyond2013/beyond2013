@@ -28,6 +28,8 @@ I have taught the following courses across undergraduate, graduate, and masterâ€
 - [Data Science: Tools and Techniques](https://github.com/beyond2013/DataScience)
 - [Advanced Analysis of Algorithms](https://github.com/beyond2013/AlgoAnalysis)
 - [Probability and Statistics](https://github.com/beyond2013/ProbNStat)
+- [Web Engineering](https://github.com/beyond2013/WebEngineering)
+- [Web Technologies](https://github.com/beyond2013/WebTechnologies)
 
 Course materials and supporting resources are maintained openly where possible.
 
