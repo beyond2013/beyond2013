@@ -30,6 +30,7 @@ I have taught the following courses across undergraduate, graduate, and masterâ€
 - [Probability and Statistics](https://github.com/beyond2013/ProbNStat)
 - [Web Engineering](https://github.com/beyond2013/WebEngineering)
 - [Web Technologies](https://github.com/beyond2013/WebTechnologies)
+- [Artificial Intelligence](https://github.com/beyond2013/AI)
 
 Course materials and supporting resources are maintained openly where possible.
 
