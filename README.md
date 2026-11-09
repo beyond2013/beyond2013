@@ -31,7 +31,7 @@ I have taught the following courses across undergraduate, graduate, and masterâ€
 - [Web Engineering](https://github.com/beyond2013/WebEngineering)
 - [Web Technologies](https://github.com/beyond2013/WebTechnologies)
 - [Artificial Intelligence](https://github.com/beyond2013/AI)
-- [Quantitative Reasoning II)(https://github.com/beyond2013/QRII)
+- [Quantitative Reasoning II](https://github.com/beyond2013/QRII)
 
 Course materials and supporting resources are maintained openly where possible.
 
